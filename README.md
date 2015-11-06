@@ -1,3 +1,2 @@
 # Sun_GitHub
-sunys
-This is just for test.
+    收集评价较好的GitHub资源
